@@ -19,3 +19,4 @@
 - https://dev.to/shaggydoag/rewriting-a-vue-2-x-component-with-vue-composition-api-27ll
 - https://medium.com/frontmen/react-developers-will-love-the-vue-composition-api-91424d221419
 - https://dev.to/brattonross/do-you-need-to-use-the-vue-composition-api-1ffm
+- https://itnext.io/how-to-migrate-from-vue-2-0-to-vue-3-0-composition-api-with-ts-part-2-replace-73606fb1b296
